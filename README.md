@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cesar castillo</h1>
-<h3 align="center">Un SRE en formacion, amante de la pizza y las cervezas, Venezolano viviendo en Argentina, apasionado por la tecnologia los videojuegos, tambien FullStack con Python y JS. mas inclinado al Front End.</h3>
+<h3 align="center">Un SRE en formacion, amante de la pizza y las cervezas, actualmente me desempeño como SysAdmin, Venezolano viviendo en Argentina, apasionado por la tecnologia los videojuegos, tambien FullStack con Python y JS. mas inclinado al Front End.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=costellocesare&label=Profile%20views&color=0e75b6&style=flat" alt="costellocesare" /> </p>
 
